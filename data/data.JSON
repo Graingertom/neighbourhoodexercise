@@ -1,0 +1,5 @@
+[ {"id": 1, "personName": "Kelvin", "age": 50, "numOfPeople": 3, "house": {"houseNum": 12, "address": {"street": "Street Street", "postcode": "Q12 3RG"}}},
+{"id": 2, "personName": "Tom", "age": 23, "numOfPeople": 2, "house": {"houseNum": 142, "address": {"street": "Street Road", "postcode": "Q12 3RJ"}}},
+{"id": 3, "personName": "Marco", "age": 62, "numOfPeople": 5, "house": {"houseNum": 200, "address": {"street": "Street Address", "postcode": "Q12 3AB"}}},
+{"id": 4, "personName": "Tom", "age": 24, "numOfPeople": 2, "house": {"houseNum": 242, "address": {"street": "Street Number", "postcode": "Q12 8EK"}}} ]   
+
